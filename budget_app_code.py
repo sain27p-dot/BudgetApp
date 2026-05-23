@@ -7,7 +7,7 @@ Matplotlib for visualization of data
 
 The budget app is meant for:
 1- Tracking  budgeted vs actual spending
-2- Learning bugeting basics through the app by not allowing “actual” to surpass “budgeted”
+2- Learning budgeting basics through the app by trying not to allow “actual” to surpass “budgeted”
 3- Creating and monitoring financial goals through visualizations
 """
 
